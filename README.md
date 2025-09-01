@@ -5,7 +5,7 @@ MoPed (Motion-Capture Pedestrians for Simulated Environments) offers high-fideli
 
 ## Dataset Overview
 
-- **Participants:** 11 (diverse in age, gender, and body type)
+- **Participants:** 12 (diverse in age, gender, and body type)
 - **Total recordings:** 220 motion capture sequences
 - **Scenario:** Pedestrian street crossings on a two-lane urban road
 - **Weather conditions:** Dry, Simulated Rain
